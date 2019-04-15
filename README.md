@@ -5,7 +5,7 @@ simple SQL parsing algorithm
 
 Boundry:
 
-1.select, from, ; , join, using and where are implemented SQL syntax
+1.select, from, ; , join, using and where are the only available SQL syntax in this algorithm
 
 2.table and attribute are stored in a txt file
 
