@@ -1,1 +1,1 @@
-Anggota;idanggota;namaanggota;alamatanggota;notelpanggota#Petugas;idpetugas;namapetugas;alamatpetugas;notelppetugas#Buku;idbuku;judulbuku;penerbit
+Anggota;idanggota;namaanggota;alamatanggota;notelpanggota#128;100000;12#Petugas;idanggota;namapetugas;alamatpetugas;notelppetugas#8;150;6#Buku;idbuku;judulbuku;penerbit#10;1000;7#4;8192
