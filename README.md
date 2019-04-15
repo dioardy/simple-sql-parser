@@ -5,8 +5,8 @@ simple SQL parsing algorithm
 
 Boundry:
 
-1.can only read 1 table
+1.select, from, ; , join, using and where are implemented SQL syntax
 
-2.select,from,; are the only SQL syntax that are recognized for now
+2.table and attribute are stored in a txt file
 
-3.table and attribute are stored in a txt file
+3.can only do 1 join (2 tables)
